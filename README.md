@@ -91,6 +91,6 @@ However:
 * Improve efficiency in agricultural management
 * Reduce environmental impact of herbicide overuse
 
-## 📄 Reference
+## Reference
 
 * Dataset: [Crop and Weed Detection Dataset](https://www.kaggle.com/datasets/ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes)
